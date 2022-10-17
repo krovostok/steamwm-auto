@@ -1,3 +1,5 @@
+#!/usr/bin/env xdg-open
+
 [Desktop Entry]
 Name=Steam (Runtime, Borders)
 Comment=Application for managing and playing games on Steam
@@ -10,7 +12,7 @@ MimeType=x-scheme-handler/steam;x-scheme-handler/steamlink;
 Actions=Store;Community;Library;Servers;Screenshots;News;Settings;BigPicture;Friends;
 PrefersNonDefaultGPU=true
 X-KDE-RunOnDiscreteGpu=true
-Name[en_US]=steam-borders.desktop
+Name[en_US]=Steam (Runtime, borders)
 
 [Desktop Action Store]
 Name=Store
@@ -47,3 +49,4 @@ Exec=steam steam://open/bigpicture
 [Desktop Action Friends]
 Name=Friends
 Exec=steam steam://open/friends
+

@@ -13,7 +13,7 @@ chmod +x steamwm.cpp
 chmod +x launch.sh
 chmod +x remove.sh
 ./steamwm.cpp
-sudo cp ~/.steamwm-auto/steam-borders.desktop /usr/share/applications/
+sudo cp ~/.steamwm-auto/"Steam (Runtime, borders).desktop" /usr/share/applications/
 
 clear
 echo "installation complete!
