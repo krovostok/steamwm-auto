@@ -13,4 +13,6 @@ clear
 echo "installation complete!
 'steam (runtime) with borders' menu entry was created.
 
-enjoy! -olezha"
+enjoy! -olezha
+"
+cd ~
