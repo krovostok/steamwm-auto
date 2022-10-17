@@ -16,7 +16,11 @@ tested on arch linux + default steam installation
 ```
 cd ~ && git clone https://github.com/krovostok/steamwm-auto.git && cd steamwm-auto/ && chmod +x install.sh && ./install.sh
 ```
-and paste into your terminal. press enter. enjoy
+and paste into your terminal. press enter.
+
+launch steam. go to steam ⇨ settings ⇨ interface ⇨ 'select the skin you wish Steam to use' ⇨ select '< no borders >'
+
+enjoy
 
 ## 【 uninstallation 】
 
