@@ -17,3 +17,11 @@ tested on arch linux + default steam installation
 cd ~ && git clone https://github.com/krovostok/steamwm-auto.git && cd steamwm-auto/ && chmod +x install.sh && ./install.sh
 ```
 and paste into your terminal. press enter. enjoy
+
+## 【 uninstallation 】
+
+⇩ copy ⇩
+```
+cd ~/.steamwm-auto && ./remove.sh
+```
+and paste into your terminal. press enter.
