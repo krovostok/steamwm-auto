@@ -29,3 +29,11 @@ enjoy
 cd ~/.steamwm-auto && ./remove.sh
 ```
 and paste into your terminal. press enter.
+
+## 【 screenshots 】
+
+### borderless
+![steam](https://user-images.githubusercontent.com/95653526/196628608-2362b6db-9410-42bf-a8d3-57df84d89fe5.png)
+
+### with borders
+![steamb](https://user-images.githubusercontent.com/95653526/196628633-94957c9c-3564-4c02-bb25-c95714b144c4.png)
