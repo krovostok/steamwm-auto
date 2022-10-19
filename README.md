@@ -18,7 +18,7 @@ cd ~ && git clone https://github.com/krovostok/steamwm-auto.git && cd steamwm-au
 ```
 and paste into your terminal, then press enter.
 
-launch steam. locate upper-left corner, go to steam ⇨ settings ⇨ interface ⇨ 'select the skin you wish Steam to use' ⇨ select '< no borders >'
+launch steam, locate upper-left corner, go to steam ⇨ settings ⇨ interface ⇨ 'select the skin you wish Steam to use' ⇨ select '< no borders >'
 
 ## 【 uninstallation 】
 
