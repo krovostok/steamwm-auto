@@ -1,8 +1,6 @@
 
 # dscharrer's steamwm + automated installing + tweaked theme for a more modern Steam
 
-dscharrer's steamwm with an little 'installation' script.
-
 requires:
 - `git`
 - `g++` with support for x86 targets
