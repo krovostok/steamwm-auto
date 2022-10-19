@@ -32,7 +32,7 @@ and paste into your terminal. press enter.
 
 ## 【 screenshots 】
 
-### borderless
+### borderless (original)
 ![steam](https://user-images.githubusercontent.com/95653526/196628608-2362b6db-9410-42bf-a8d3-57df84d89fe5.png)
 
 ### with borders and skin applied
