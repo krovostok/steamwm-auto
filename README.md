@@ -8,6 +8,10 @@ requires:
 
 tested on arch linux + default steam installation
 
+cons:
+- 'close' button KILLS steam, doesn't close to tray
+- in plasma, steam loses focus to its menus (it sucks)
+
 ## 【 installation 】
 
 ⇩ copy ⇩
